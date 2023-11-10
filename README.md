@@ -1,6 +1,6 @@
 <div>
 
-<img src="https://img.shields.io/badge/4chan-006600?style=for-the-badge&logo=4chan&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
