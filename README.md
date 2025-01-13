@@ -27,10 +27,17 @@
 - [코딩테스트 문제 풀이 블로그](링크)
 
 ## 📝 기술 블로그
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name={your-velog-name})](https://velog.io/@{your-velog-name})
+<a href="https://snackcoding.tistory.com">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" />
+</a>
+
+### 최근 포스트
+- [첫 번째 게시글 제목](게시글 링크)
+- [두 번째 게시글 제목](게시글 링크)
+- [세 번째 게시글 제목](게시글 링크)
 
 ## 📈 GitHub 통계
-![GitHub stats](https://github-readme-stats.vercel.app/api?username={your-username}&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username={okhi3945}&show_icons=true&theme=radical)
 
 ## 📞 Contact
 - Email: your.email@example.com
