@@ -10,7 +10,7 @@
 | Frontend | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <br> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ⭐⭐⭐ <br> ⭐⭐ |
 
 ## 💻 프로젝트 경험
-### 1. 프로젝트명 (2023.09 - 2023.12)
+### 1. 소상공인의 나누는 기쁨(소나기) (2023.09 - 2023.12)
 - 설명: Spring Boot를 활용한 쇼핑몰 프로젝트
 - 역할: 백엔드 개발, DB 설계
 - 기술 스택: `Java` `Spring Boot` `MySQL` `JPA`
@@ -22,8 +22,8 @@
 - [프로젝트 상세 보기](링크)
 
 ## 📊 코딩테스트 준비도
-- 백준: Gold 3
-- 프로그래머스: Lv.3
+- 백준: 
+- 프로그래머스: 
 - [코딩테스트 문제 풀이 블로그](링크)
 
 ## 📝 기술 블로그
