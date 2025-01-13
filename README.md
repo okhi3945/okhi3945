@@ -37,7 +37,7 @@
 - [세 번째 게시글 제목](게시글 링크)
 
 ## 📈 GitHub 통계
-![GitHub stats](https://github-readme-stats.vercel.app/api?username={okhi3945}&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username={yhoka@naver.com}&show_icons=true&theme=radical)
 
 ## 📞 Contact
 - Email: your.email@example.com
