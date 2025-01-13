@@ -40,6 +40,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=okhi3945&show_icons=true&theme=radical)
 
 ## 📞 Contact
-- Email: your.email@example.com
-- Blog: [블로그 주소]
-- LinkedIn: [LinkedIn 프로필]
+- Email: yhoka@naver.com
+- Blog: [https://snackcoding.tistory.com](https://snackcoding.tistory.com)
+- LinkedIn: 추후 추가 예정
