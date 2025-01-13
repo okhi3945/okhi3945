@@ -39,6 +39,14 @@
 ## 📈 GitHub 통계
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=okhi3945&show_icons=true&theme=radical)
 
+## 🎓 교육 및 부트캠프
+### CJ OliveNetworks Cloud Wave 4기
+- 기간: 2024.12 - 2025.02.28
+- 주요 학습: 도커, 쿠버네티스, 네트워크, 리눅스
+- 프로젝트: 
+- 성과:
+  
+
 ## 📞 Contact
 - Email: yhoka@naver.com
 - Blog: [https://snackcoding.tistory.com](https://snackcoding.tistory.com)
