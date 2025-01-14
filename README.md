@@ -5,9 +5,9 @@
 ## 🛠 Technical Skills
 | 분야 | 기술 스택 | 수준 |
 |------|-----------|------|
-| Backend | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) <br> ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | ⭐⭐⭐⭐⭐ <br> ⭐⭐⭐ |
-| Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ⭐⭐⭐ |
-| Frontend | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <br> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ⭐⭐⭐ <br> ⭐⭐ |
+| Backend | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) <br> ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | ⭐⭐⭐ <br> ⭐⭐⭐ |
+| Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ⭐⭐ |
+| Frontend | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <br> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ⭐⭐ <br> ⭐⭐ |
 
 ## 💻 프로젝트 경험
 ### 1. 소상공인의 나누는 기쁨(소나기) (2023.09 - 2023.12)
