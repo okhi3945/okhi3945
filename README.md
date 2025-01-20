@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>👋 안녕하세요, 배운것을 알려줄 수 있는 개발자가 되고 싶은 윤영학입니다!</h1>
+  <h1>👋 안녕하세요, 사용자 경험과 팀원과의 협업 및 성장을 추구하는 백엔드 개발자 윤영학입니다!</h1>
 </div>
 
 ## 🛠 Technical Skills
 | 분야 | 기술 스택 | 수준 | 설명 |
 |------|-----------|------|------|
-| Backend | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) <br> ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | ⭐⭐⭐ <br> ⭐⭐⭐ |
+| Backend | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) <br> ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | ⭐⭐⭐ <br> ⭐⭐⭐ | 프로젝트에서 사용해봤다. <br> 프로젝트에서 사용해봤다. |
 | Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ⭐⭐ |
 | Frontend | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <br> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ⭐⭐ <br> ⭐⭐ |
 
