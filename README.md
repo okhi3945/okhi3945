@@ -1,7 +1,7 @@
 
 <br>
 
-## 🛠 Technical Skills
+## 🛠 기술 스택
 | 분야 | 기술 스택 | 숙련도 | 경험 |
 |------|-----------|--------|------|
 | Backend | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | ⭐⭐⭐ | • 개인/팀 프로젝트 개발 경험<br>• Spring Framework 기반 서버 구축<br>• REST API 설계 및 구현 |
