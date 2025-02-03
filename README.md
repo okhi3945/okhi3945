@@ -4,7 +4,7 @@
 ## 🛠 기술 스택
 | 분야 | 기술 스택 | 숙련도 | 경험 |
 |------|-----------|--------|------|
-| Backend | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | ⭐⭐⭐ | • 개인/팀 프로젝트 개발 경험<br>• Spring Framework 기반 서버 구축<br>• REST API 설계 및 구현 |
+| Backend | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | ⭐⭐⭐ | • 개인/팀 프로젝트 개발 경험<br>• Spring Framework 기반 서버 구축<br>• REST API 설계 및 구현 |
 | | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | ⭐⭐⭐ | • Spring Boot 기반 웹 애플리케이션 개발 경험 有<br>• MVC 패턴 프로젝트 개발 경험 有  |
 | Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ⭐⭐ | • 데이터베이스 설계 및 구축<br>• 기본적인 쿼리 작성 및 최적화 |
 | | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white) | ⭐ | • 데이터베이스 설계 및 구축<br>• 팀 프로젝트 postgreSQL 사용 경험 有 |
