@@ -1,3 +1,7 @@
+<div align="center">
+  <h1>안녕하세요, 협업과 성장을 중요시하는 백엔드 개발자 윤영학입니다!</h1>
+</div>
+
 ## 🛠 Technical Skills
 
 | 분야 | 기술 스택 | 숙련도 | 경험 |
@@ -23,15 +27,10 @@
 - 성과 : 2023년 소프트웨어 중심대학 몰입형 SW 교육과정 산출물 경진대회 대상(총장상)
 - [프로젝트 상세 보기](https://github.com/okhi3945/Sonagi_App)
 
-### 2. 개인 프로젝트명 (2024.01)
-- 설명: React를 이용한 포트폴리오 웹사이트
-- 기술 스택: `React` `JavaScript` `CSS`
-- [프로젝트 상세 보기](링크)
-
 ## 📊 코딩테스트 준비도
 - 백준: 
 - 프로그래머스: 
-- [코딩테스트 문제 풀이 블로그](링크)
+- [코딩테스트 문제 풀이 블로그](https://snackcoding.tistory.com/category/%EC%BD%94%ED%85%8C)
 
 ## 📝 기술 블로그
 <a href="https://snackcoding.tistory.com">
