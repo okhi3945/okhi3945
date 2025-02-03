@@ -15,7 +15,6 @@
 > - ⭐⭐ : 기본 개념 이해, 실무 활용 가능
 > - ⭐ : 기초 지식 보유, 학습 진행 중
 
-<br>
 
 ## 💻 프로젝트 경험
 ### 1. 소상공인의 나누는 기쁨(소나기) (2023.09 - 2023.12)
@@ -34,11 +33,6 @@
 <a href="https://snackcoding.tistory.com">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" />
 </a>
-
-### 최근 포스트
-- [첫 번째 게시글 제목](게시글 링크)
-- [두 번째 게시글 제목](게시글 링크)
-- [세 번째 게시글 제목](게시글 링크)
 
 ## 📈 GitHub 통계
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=okhi3945&show_icons=true&theme=radical)
