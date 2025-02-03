@@ -2,7 +2,6 @@
 <br>
 
 ## 🛠 Technical Skills
-
 | 분야 | 기술 스택 | 숙련도 | 경험 |
 |------|-----------|--------|------|
 | Backend | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | ⭐⭐⭐ | • 개인/팀 프로젝트 개발 경험<br>• Spring Framework 기반 서버 구축<br>• REST API 설계 및 구현 |
@@ -11,12 +10,12 @@
 | | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white) | ⭐ | • 데이터베이스 설계 및 구축<br>• 팀 프로젝트 postgreSQL 사용 경험 有 |
 | Frontend | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐⭐ | • 비동기 통신 구현   |
 | | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ⭐⭐⭐ | • 팀 프로젝트 개발 경험 有<br>• Expo, axios, react-navigation 등 라이브러리 활용 경험 有 |
-
 > 숙련도 기준
 > - ⭐⭐⭐ : 프로젝트 개발 경험 있음, 독립적으로 개발 가능
 > - ⭐⭐ : 기본 개념 이해, 실무 활용 가능
 > - ⭐ : 기초 지식 보유, 학습 진행 중
 
+<br>
 
 ## 💻 프로젝트 경험
 ### 1. 소상공인의 나누는 기쁨(소나기) (2023.09 - 2023.12)
