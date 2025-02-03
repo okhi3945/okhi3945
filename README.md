@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=&fontAlign=70&=)
+![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=Yeonghak%20Github&fontAlign=50&=)
 <br>
 
 ## 🛠 기술 스택
