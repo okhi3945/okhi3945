@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>안녕하세요, 협업과 성장을 중요시하는 백엔드 개발자 윤영학입니다!</h1>
-</div>
+
+<br>
 
 ## 🛠 Technical Skills
 
