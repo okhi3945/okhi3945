@@ -7,8 +7,8 @@
 |------|-----------|--------|------|
 | Backend | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | ⭐⭐⭐ | • 개인/팀 프로젝트 개발 경험<br>• Spring Framework 기반 서버 구축<br>• REST API 설계 및 구현 |
 | | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | ⭐⭐⭐ | • Spring Boot 기반 웹 애플리케이션 개발 경험 有<br>• MVC 패턴 프로젝트 개발 경험 有  |
-| Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ⭐⭐ | • 데이터베이스 설계 및 구축<br>• 기본적인 쿼리 작성 및 최적화 |
-| | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white) | ⭐ | • 데이터베이스 설계 및 구축<br>• 팀 프로젝트 postgreSQL 사용 경험 有 |
+| Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ⭐⭐ | • 데이터베이스 설계 및 구축<br>• 기본적인 쿼리 작성 및 최적화 <br>• 팀 프로젝트 postgreSQL 사용 경험 有 |
+| | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white) | ⭐ | • 데이터베이스 설계 및 구축<br>• 팀 프로젝트 MySQL 사용 경험 有 |
 | Frontend | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐⭐ | • 비동기 통신 구현   |
 | | ![React Native](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black) | ⭐⭐⭐ | • 팀 프로젝트 개발 경험 有<br>• Expo, axios, react-navigation 등 라이브러리 활용 경험 有 |
 > 숙련도 기준
