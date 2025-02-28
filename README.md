@@ -42,8 +42,8 @@
 ### CJ OliveNetworks Cloud Wave 4기
 - 기간: 2024.12.16 - 2025.02.28
 - 주요 학습: 도커, 쿠버네티스, 네트워크, 리눅스
-- 프로젝트: 
-- 성과:
+- 프로젝트: [비용 낮chill_guy](https://github.com/low-cost-chill-guy)
+- 성과: CI/CD 파이프라인 구축, IVS 라이브 스트리밍 서비스 사용, 
   
 
 ## 📞 Contact
