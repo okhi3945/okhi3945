@@ -1,53 +1,49 @@
+💡 소개
+끊임없이 배우고 성장하며, 기술로 사회적 가치를 창출하는 것을 좋아하는 백엔드 개발자입니다. <br> 프로젝트를 진행하며 팀원들과 함께 문제를 해결하고 협업하는 과정에서 즐거움을 느낍니다.
 
-![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=Yeonghak%20Github&fontAlign=50&=)
-<br>
+---
 
-## 🛠 기술 스택
-| 분야 | 기술 스택 | 숙련도 | 경험 |
-|------|-----------|--------|------|
-| Backend | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | ⭐⭐⭐ | • Spring Framework 기반 서버 구축<br>• REST API 설계 및 구현<br>• JPA 활용 팀프로젝트 개발 경험 |
-| | ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white) | ⭐⭐⭐ | • Spring Boot 기반 웹 애플리케이션 개발 경험 有<br>• MVC 패턴 프로젝트 개발 경험 有  |
-| | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) | ⭐⭐ | • AWS ECR과 Github Webhook을 활용한 CI/CD 파이프라인 자동화 구축 경험 有 |
-| Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ⭐⭐ | • 데이터베이스 설계 및 구축<br>• 기본적인 쿼리 작성 및 최적화 <br>• 팀 프로젝트 MySQL 사용 경험 有 |
-| | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white) | ⭐ | • 데이터베이스 설계 및 구축<br>• 팀 프로젝트 postgreSQL 사용 경험 有 |
-| Frontend | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐⭐ | • 비동기 통신 구현   |
-| | ![React Native](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black) | ⭐⭐ | • 팀 프로젝트 개발 경험 有<br>• Expo, axios, react-navigation 등 라이브러리 활용 경험 有 |
-> 숙련도 기준
-> - ⭐⭐⭐ : 프로젝트 개발 경험 있음, 독립적으로 개발 가능
-> - ⭐⭐ : 기본 개념 이해, 실무 활용 가능
-> - ⭐ : 기초 지식 보유, 학습 진행 중
+### 🛠 기술 스택
+| 분야 | 기술 스택 | 경험 |
+|---|---|---|
+| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)<br>![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white) | • Spring 기반 서버 및 REST API 설계/구현<br>• MVC 패턴 웹 애플리케이션 개발<br>• JPA 활용 프로젝트 개발 경험 |
+| **DevOps** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br>![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | • AWS 환경에서 인프라 구축 및 관리<br>• Jenkins를 활용한 CI/CD 파이프라인 자동화<br>• Docker를 활용한 개발 환경 구축<br>• AWS SAA-C03 자격증 취득 |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white)<br>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | • 관계형/비관계형 데이터베이스 설계 및 구축<br>• 쿼리 작성 및 성능 최적화 경험 |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black) | • 비동기 통신 구현 및 라이브러리 활용<br>• 팀 프로젝트 앱 개발 경험 |
 
+---
 
-## 💻 프로젝트 경험
-### 1. 소상공인의 나누는 기쁨(소나기) (2023.09 - 2023.12)
-- 설명: Spring Boot를 활용한 쇼핑몰 프로젝트
-- 역할: 백엔드 개발 및 웹 설계, 부팀장
-- 기술 스택: `Java` `Spring Boot` `React` `React Native` `MySQL` 
-- 성과 : 2023년 소프트웨어 중심대학 몰입형 SW 교육과정 산출물 경진대회 대상(총장상)
-- [프로젝트 상세 보기](https://github.com/okhi3945/Sonagi_App)
+### 💻 주요 프로젝트
+1. **비용 낮Chill_guy (2025.02 - 2025.02)**
+   * **설명**: AWS를 활용해 실제 CGV 인프라를 구축하고 비용 효율성을 최적화한 프로젝트
+   * **역할**: AWS 인프라 설계, CI/CD 파이프라인 구축 주도
+   * **주요 기술**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-F3722F?style=flat-square&logo=argocd&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![IVS](https://img.shields.io/badge/IVS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+   * **성과**: Jenkins를 활용한 CI/CD 파이프라인 구축으로 WAS 서버 테스트 시간 60% 단축
 
-## 📊 코딩테스트 준비도
-- 백준: 
-- 프로그래머스: 
-- [코딩테스트 문제 풀이 블로그](https://snackcoding.tistory.com/category/%EC%BD%94%ED%85%8C)
+2. **다모아 (2025.03 - 2025.07)**
+   * **설명**: 다양한 라이브 커머스 방송을 통합하고 사용자 맞춤형 추천 기능을 제공하는 플랫폼
+   * **역할**: 백엔드 개발 및 검색 시스템 고도화
+   * **주요 기술**: ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+   * **성과**: ElasticSearch와 MongoDB를 연동하여 효율적인 상품 검색 기능 구현
 
-## 📝 기술 블로그
-<a href="https://snackcoding.tistory.com">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" />
-</a>
+3. **청순가련 (2024.05 - 2024.06)**
+   * **설명**: 유휴 공간을 활용해 청년 창업을 돕는 팝업스토어 매칭 플랫폼 개발
+   * **역할**: 백엔드 개발 및 프론트엔드 DB 연동 지원
+   * **주요 기술**: ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white)
+   * **성과**: 아산시 도시재생 청년리빙랩 해커톤 우수상 수상
 
-## 📈 GitHub 통계
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=okhi3945&show_icons=true&theme=radical)
+4. **소나기 (2023.09 - 2023.12)**
+   * **설명**: 조리된 음식을 기부하는 웹/앱 플랫폼 개발
+   * **역할**: 백엔드 개발 및 부팀장
+   * **주요 기술**: ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+   * **성과**: 선문대학교 몰입형 SW 교육과정 산출물 경진대회 대상 수상
 
-## 🎓 교육 및 부트캠프
-### CJ OliveNetworks Cloud Wave 4기
-- 기간: 2024.12.16 - 2025.02.28
-- 주요 학습: AWS, 도커, 쿠버네티스, 네트워크, 리눅스, CI/CD
-- 프로젝트: [비용 낮chill_guy](https://github.com/low-cost-chill-guy)
-- 내용: 젠킨스를 활용한 CI/CD 파이프라인 구축, IVS 라이브 스트리밍 서비스 사용 
-  
+---
 
-## 📞 Contact
-- Email: yhoka@naver.com
-- Blog: [https://snackcoding.tistory.com](https://snackcoding.tistory.com)
-- LinkedIn: 추후 추가 예정
+### 📝 기술 블로그 
+📚 [기술 블로그 (티스토리)](https://snackcoding.tistory.com/)
+---
+
+### 📞 연락처
+* **Email**: yhoka@naver.com
+* **LinkedIn**: [링크드인](https://www.linkedin.com/in/%EC%98%81%ED%95%99-%EC%9C%A4-36ba40346/)
