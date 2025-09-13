@@ -22,7 +22,7 @@
 
 2. **[다모아](https://github.com/sm-comprehensive-project) (2025.03 - 2025.07)**
    * **설명**: 다양한 라이브 커머스 방송을 통합하고 사용자 맞춤형 추천 기능을 제공하는 플랫폼
-   * **역할**: 백엔드 개발 및 검색 시스템 고도화
+   * **역할**: 도커 오케스트레이션 구현 및 추천 알고리즘 설계
    * **주요 기술**: ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
    * **성과**: 선문대학교 캡스톤 프로젝트 기업 연계 경진대회 동상 <br> 한국디지털콘텐츠학회 하계종합학술대회 대학생 논문경진대회 은상
 
