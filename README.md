@@ -26,7 +26,7 @@
    * **주요 기술**: ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
    * **성과**: 선문대학교 캡스톤 프로젝트 기업 연계 경진대회 동상 <br> 한국디지털콘텐츠학회 하계종합학술대회 대학생 논문경진대회 은상
 
-3. **[청순가련](https://github.com/Y-O-U-R-S) (2024.05 - 2024.06)**
+3. **[청순가련](https://github.com/Y-O-U-R-S) (2024.09 - 2024.11)**
    * **설명**: 유휴 공간을 활용해 청년 창업을 돕는 팝업스토어 매칭 플랫폼 개발
    * **역할**: 백엔드 개발 및 프론트엔드 DB 연동 지원
    * **주요 기술**: ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white)
