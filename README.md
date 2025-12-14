@@ -1,8 +1,8 @@
 ### 🛠 기술 스택
 | 분야 | 기술 스택 | 경험 |
 |---|---|---|
-| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)<br>![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white) | • Spring 기반 서버 및 REST API 설계/구현<br>• MVC 패턴 웹 애플리케이션 개발<br>• JPA 활용 프로젝트 개발 경험 |
-| **DevOps** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br>![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | • AWS 환경에서 인프라 구축 및 관리<br>• Jenkins를 활용한 CI/CD 파이프라인 자동화<br>• Docker를 활용한 개발 환경 구축<br>• AWS SAA-C03 자격증 취득 |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)<br>![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white) | • Spring Boot 기반 서버 및 REST API 설계/구현<br>• MVC 패턴 웹 애플리케이션 개발|
+| **DevOps** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br>![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | • AWS 환경에서 인프라 구축 및 관리<br>• Jenkins를 활용한 CI/CD 파이프라인 자동화<br>• Docker를 활용한 개발 환경 구축|
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white)<br>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | • 관계형/비관계형 데이터베이스 설계 및 구축<br>• 쿼리 작성 및 성능 최적화 경험 |
 | **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black) | • 비동기 통신 구현 및 라이브러리 활용<br>• 팀 프로젝트 앱 개발 경험 |
 
@@ -13,7 +13,7 @@
    * **설명**: AWS를 활용해 실제 CGV 인프라를 구축하고 비용 효율성을 최적화한 프로젝트
    * **역할**: AWS 인프라 설계, CI/CD 파이프라인 구축 주도
    * **주요 기술**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-F3722F?style=flat-square&logo=argocd&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![IVS](https://img.shields.io/badge/IVS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-   * **성과**: Jenkins를 활용한 CI/CD 파이프라인 구축으로 WAS 서버 테스트 시간 60% 단축
+   * **성과**: AWS 환경 ECR을 활용한 CI/CD 파이프라인 구축, AWS Lambda를 활용한 유휴 리소스 정지 자동화 후 알람 로직 구축
 
 2. **[다모아](https://github.com/sm-comprehensive-project) (2025.03 - 2025.07)**
    * **설명**: 다양한 라이브 커머스 방송을 통합하고 사용자 맞춤형 추천 기능을 제공하는 플랫폼
