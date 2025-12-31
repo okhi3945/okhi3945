@@ -73,5 +73,6 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=okhi3945&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okhi3945&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=okhi3945&show_icons=true&theme=radical) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=okhi3945&theme=radical)
+[![okhi3945's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=okhi3945&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
