@@ -3,7 +3,7 @@
 > **"Building Cost-Efficient & Reliable Infrastructure through Systems Thinking."**
 > 비용 효율적인 인프라 구축과 시스템화를 통한 협업을 지향하는 클라우드 엔지니어 윤영학입니다.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%98%81%ED%95%99-%EC%9C%A4-36ba40346/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeonghak-yun-36ba40346/)
 [![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://snackcoding.tistory.com/)
 [![Email](https://img.shields.io/badge/Email-yhoka@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yhoka@naver.com)
 
