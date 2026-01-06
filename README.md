@@ -63,6 +63,7 @@
 ---
 
 ### 📜 Certifications & Awards
+- **Linux Master Level 2** (2026.01)
 - **AWS Certified Solutions Architect – Associate** (2025.05) 
 - **Engineer Information Processing (정보처리기사)** (2025.12) 
 - **SQL Developer (SQLD)** (2023.12) 
